@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTMLS, CSS, JAVASCRIPT ETC
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me natsky.salvedia@gmail.com
+- 📫 How to reach me ...
 - 
 
 <!---
